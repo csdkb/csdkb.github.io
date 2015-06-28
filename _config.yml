@@ -19,6 +19,9 @@ author:
 
 paginate:         5
 
+# TODO
+  # menu / navigation translation
+
 # Custom vars
 version:          0.0.1
 
