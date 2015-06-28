@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O N&aacute;s
+title: O Nás
 ---
 
 
