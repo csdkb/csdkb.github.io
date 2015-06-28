@@ -1,0 +1,26 @@
+---
+layout: default
+title: Home
+---
+
+<h1>soubory ke sta&#382;ení:</h1>
+
+<div class="file-container">
+  {% for skladba in site.data.soubory %}
+  
+  <h2>{{ skladba.title }}</h2>
+  <p>
+    {% for file in skladba.files %}
+        &gt; <a href="soubory/{{ file.soubor }}">{{ file.soubor }}</a>
+        <br />
+      {% assign file_check = file.soubor %}
+      {% if file_check contains '.rar' or file_check contains '.zip' %}
+        <br />
+      {% endif %}
+  
+    {% endfor %}
+  </p>
+  
+  {% endfor %}
+</div>
+

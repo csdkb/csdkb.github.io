@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            '&#268;SDKB'
+tagline:          '&#268;eskoslovensk&aacute; Doprovodn&aacute; Kapela Brusel'
+description:      'Midi soubory a nic vic.'
+url:              
+baseurl:          /
+
+author:
+  name:           'ulf gjerdingen'
+  url:            https://ulfgj.github.io
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           

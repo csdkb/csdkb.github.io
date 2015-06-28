@@ -1,0 +1,65 @@
+# - soubor: file_sample.mid
+
+# - title: trnavsky - alma nox
+#   SATB: 
+#     - soubor: file01.mid
+#       soubor: file02.mid
+
+# - title: dvorak - te deum        
+#   instrument:
+#   - brass:
+#     soubor: file03.mid
+#     soubor: file04.mid
+#     soubor: file05.mid
+
+
+- title: Schneider-Trnavský - Alma nox
+  files:
+    - soubor: Kyrie MST Alt Pokrocily.mid
+    - soubor: Kyrie MST Alt Zaciatocnik.mid
+    - soubor: Kyrie MST Bas Pokrocily.mid
+    - soubor: Kyrie MST Bas Zaciatocnik.mid
+    - soubor: Kyrie MST pre frajerov.mid
+    - soubor: Kyrie MST Sopran Pokrocily.mid
+    - soubor: Kyrie MST Sopran Zaciatocnik.mid
+    - soubor: Kyrie MST Tenor Pokrocily.mid
+    - soubor: Kyrie MST Tenor Zaciatocnik.mid
+    - soubor: kyrie - all files.zip
+
+    - soubor: Gloria MST Alt Pokrocily.mid
+    - soubor: Gloria MST Alt Zaciatocnik.mid
+    - soubor: Gloria MST Bas Pokrocily.mid
+    - soubor: Gloria MST Bas Zaciatocnik.mid
+    - soubor: Gloria MST pre frajerov.mid
+    - soubor: Gloria MST Sopran Pokrocily.mid
+    - soubor: Gloria MST Sopran Zaciatocnik.mid
+    - soubor: Gloria MST Tenor Pokrocily.mid
+    - soubor: Gloria MST Tenor Zaciatocnik.mid
+    - soubor: gloria - all files.zip
+
+    - soubor: Credo MST Alt Pokrocily.mid
+    - soubor: Credo MST Alt Zaciatocnik.mid
+    - soubor: Credo MST Bas Pokrocily.mid
+    - soubor: Credo MST Bas Zaciatocnik.mid
+    - soubor: Credo MST pre frajerov.mid
+    - soubor: Credo MST Sopran Pokrocily.mid
+    - soubor: Credo MST Sopran Zaciatocnik.mid
+    - soubor: Credo MST Tenor Pokrocily.mid
+    - soubor: Credo MST Tenor Zaciatocnik.mid
+    - soubor: credo - all files.rar
+
+    # sanctus
+
+
+
+    # angnus dei
+
+
+
+    # benedictus
+
+
+# - title: dvorak - te deum
+#   files:
+#     - soubor: file03.mid
+#     - soubor: file04.mid

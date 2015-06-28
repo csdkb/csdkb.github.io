@@ -1,0 +1,19 @@
+.fullscore {
+  /*display: inline-block;*/
+  /*background: rgba(0, 0, 0, 0.5);*/
+  /*color: white;*/
+  /*border-radius: 6px;*/
+  /*padding:5px;*/
+  margin-top: 5px;
+
+}
+
+.title-image {
+  margin: 0 auto;
+}
+
+.file-container a { line-height: 2.5rem; }
+
+@media (min-width: 48em) {
+  .file-container a { line-height: 1rem; }
+}
